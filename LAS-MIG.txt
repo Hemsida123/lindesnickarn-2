@@ -1,0 +1,1 @@
+Öppna index.html. Behåll samtliga filer och mappar tillsammans. Kontaktformuläret förbereder ett mejlutkast som besökaren skickar via sin mejlapp. Bilder och logotyp kommer från lindesnickarn.se.

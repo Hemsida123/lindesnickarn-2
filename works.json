@@ -1,0 +1,110 @@
+[
+  {
+    "id": "speglar",
+    "title": "Fönster mot ett annat rum",
+    "category": "Spegelfönster",
+    "filter": "speglar",
+    "image": "mirrors.webp",
+    "text": "Välvda, runda och spröjsade former. Ett urval av Lindesnickarns dekorativa spegelfönster.",
+    "alt": "Samling av runda och välvda spegelfönster i trä"
+  },
+  {
+    "id": "skap",
+    "title": "Ett skåp med egen karaktär",
+    "category": "Möbler",
+    "filter": "mobler",
+    "image": "archive-11.webp",
+    "text": "Vitrinskåp med profilerade luckor och glasparti. Ett arbete ur Lindesnickarns bildarkiv.",
+    "alt": "Handsnickrat vitrinskåp i trä med bågformat glasparti"
+  },
+  {
+    "id": "spegel",
+    "title": "En båge, många detaljer",
+    "category": "Spegelfönster",
+    "filter": "speglar",
+    "image": "archive-3.webp",
+    "text": "En spetsbågad spegel med genomarbetad spröjsning. Formen och materialet får sätta tonen.",
+    "alt": "Spetsbågad spegel i trä mot en mörk timmervägg"
+  },
+  {
+    "id": "lusthus",
+    "title": "Där snickarglädjen började",
+    "category": "Byggnadssnickeri",
+    "filter": "bygg",
+    "image": "gazebo.webp",
+    "text": "Lusthuset byggde Kenneth redan som 16-åring, enligt berättelsen på Lindesnickarns webbplats.",
+    "alt": "Litet handbyggt lusthus i en grönskande trädgård"
+  },
+  {
+    "id": "verkstad",
+    "title": "En värld av trä",
+    "category": "Möbler",
+    "filter": "mobler",
+    "image": "workshop.webp",
+    "text": "Möbler och spegelfönster i en miljö fylld av snickeri. En inblick i Lindesnickarns eget bildarkiv.",
+    "alt": "Möbler och många spegelfönster i en varm verkstadsmiljö"
+  },
+  {
+    "id": "dorr",
+    "title": "En välkomnande entré",
+    "category": "Byggnadssnickeri",
+    "filter": "bygg",
+    "image": "door.webp",
+    "text": "Dörr och karm som en del av husets uttryck. Foto från Lindesnickarns presentation av dörrsnickeri.",
+    "alt": "Mörk trädörr i en entré med grön klätterväxt"
+  },
+  {
+    "id": "gaveldetalj",
+    "title": "Detaljen under taket",
+    "category": "Byggnadssnickeri",
+    "filter": "bygg",
+    "image": "gable.webp",
+    "text": "Dekorativt snickeri som ger gaveln ett eget uttryck. Från bildarkivet för specialsnickerier.",
+    "alt": "Gavelsmyckning med dekorativt utsågade trädetaljer"
+  },
+  {
+    "id": "bord",
+    "title": "Nytt liv för ett bord",
+    "category": "Möbler",
+    "filter": "mobler",
+    "image": "repair.webp",
+    "text": "Reparation är en del av verkstadens arbete. Bilden visar Kenneth med två runda bordsskivor.",
+    "alt": "Kenneth visar två runda bordsskivor i verkstaden"
+  },
+  {
+    "id": "glasbord",
+    "title": "Form under glas",
+    "category": "Möbler",
+    "filter": "mobler",
+    "image": "archive-5.webp",
+    "text": "Bord med glasskiva och trästomme ur Lindesnickarns äldre bildarkiv.",
+    "alt": "Fyrkantigt bord med glasskiva och trästomme"
+  },
+  {
+    "id": "takfonster",
+    "title": "Fönster efter huset",
+    "category": "Byggnadssnickeri",
+    "filter": "bygg",
+    "image": "window.webp",
+    "text": "Ett exempel från Lindesnickarns fönsterarbeten. Anpassade former när standardmåtten inte räcker till.",
+    "alt": "Specialformat fönster i ett tegeltak"
+  },
+  {
+    "id": "vitrin",
+    "title": "Byggt för att visas",
+    "category": "Möbler",
+    "filter": "mobler",
+    "image": "archive-1.webp",
+    "text": "Ett smalt glasskåp med flera sidor och ljus trästomme, ur det äldre galleriet.",
+    "alt": "Smalt glasskåp med flera sidor och trästomme"
+  },
+  {
+    "id": "rundbage",
+    "title": "Klassisk rundbåge",
+    "category": "Spegelfönster",
+    "filter": "speglar",
+    "image": "archive-4.webp",
+    "text": "Rundbågat spegelfönster med spröjs. Ett av uttrycken i Lindesnickarns äldre galleri.",
+    "alt": "Rundbågad träspegel med spröjs i en interiör"
+  }
+]

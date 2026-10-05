@@ -1,0 +1,271 @@
+{
+  "source": "Authentic originals downloaded from https://lindesnickarn.se/ and its directly linked historical website. No generated imagery and no changes to source photographs.",
+  "recommended_hero": {
+    "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/lindesnickarn-assets/Lindesnickarn Mobler.jpg",
+    "width": 1200,
+    "height": 800,
+    "reason": "Broad warm workshop/showroom scene combines signature arched mirror craft and furniture in a single atmospheric image.",
+    "position": "Center (50% 50%); 16:9 crops preserve the mirror collection and table. Avoid oversized black overlays because the source is naturally dark.",
+    "alternative": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/lindesnickarn-assets/Lindesnickarn Fonsterspegel.jpg"
+  },
+  "selected": [
+    {
+      "src": "img/Lindesnickarn-Logotyp-Mellan-Vit.png",
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/lindesnickarn-assets/Lindesnickarn-Logotyp-Mellan-Vit.png",
+      "alt": "Lindesnickarn Logotyp",
+      "width": 1000,
+      "height": 1000,
+      "title": "Original logo",
+      "description": "Red script wordmark and white arched-window emblem on transparent background.",
+      "recommended_use": "Logo",
+      "source_image_url": "https://lindesnickarn.se/img/Lindesnickarn-Logotyp-Mellan-Vit.png",
+      "source_page_url": "https://lindesnickarn.se/"
+    },
+    {
+      "src": "img/Lindesnickarn Mobler.jpg",
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/lindesnickarn-assets/Lindesnickarn Mobler.jpg",
+      "alt": "Möbler",
+      "width": 1200,
+      "height": 800,
+      "title": "Workshop furniture and mirror display",
+      "description": "Service category Möbler; a wide interior with handmade table, stools and many window mirrors. Exact venue/client/project title not supplied.",
+      "recommended_use": "Recommended still hero",
+      "source_image_url": "https://lindesnickarn.se/img/Lindesnickarn%20Mobler.jpg",
+      "source_page_url": "https://lindesnickarn.se/tjanster.php"
+    },
+    {
+      "src": "img/Lindesnickarn Fonsterspegel.jpg",
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/lindesnickarn-assets/Lindesnickarn Fonsterspegel.jpg",
+      "alt": "Spegelfönster",
+      "width": 1200,
+      "height": 800,
+      "title": "Spegelfönster",
+      "description": "Service category and caption Spegelfönster. Close view of many arched and round decorative mirror frames.",
+      "recommended_use": "Signature craft gallery",
+      "source_image_url": "https://lindesnickarn.se/img/Lindesnickarn%20Fonsterspegel.jpg",
+      "source_page_url": "https://lindesnickarn.se/tjanster.php"
+    },
+    {
+      "src": "img/Lindesnickarn Kenneth.jpg",
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/lindesnickarn-assets/Lindesnickarn Kenneth.jpg",
+      "alt": "Snickare Kenneth Lindesnickarn",
+      "width": 599,
+      "height": 800,
+      "title": "Kenneth Andersson",
+      "description": "Homepage portrait alt text identifies the carpenter Kenneth; surrounding biography identifies Kenneth Andersson as founder.",
+      "recommended_use": "Founder portrait",
+      "source_image_url": "https://lindesnickarn.se/img/Lindesnickarn%20Kenneth.jpg",
+      "source_page_url": "https://lindesnickarn.se/"
+    },
+    {
+      "src": "img/Lindesnickarn Byggnation.jpg",
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/lindesnickarn-assets/Lindesnickarn Byggnation.jpg",
+      "alt": "Byggnation",
+      "width": 1200,
+      "height": 800,
+      "title": "Lusthus",
+      "description": "Services page explicitly states Kenneth Andersson built the pictured gazebo at age 16. No date or named client is given.",
+      "recommended_use": "Garden building gallery",
+      "source_image_url": "https://lindesnickarn.se/img/Lindesnickarn%20Byggnation.jpg",
+      "source_page_url": "https://lindesnickarn.se/tjanster.php"
+    },
+    {
+      "src": "img/Lindesnickarn Dorr.jpg",
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/lindesnickarn-assets/Lindesnickarn Dorr.jpg",
+      "alt": "Dörrar",
+      "width": 1200,
+      "height": 800,
+      "title": "Dörrar",
+      "description": "Services page labels this doors; a dark exterior door under a leafy arch. No client/location supplied.",
+      "recommended_use": "Door project gallery",
+      "source_image_url": "https://lindesnickarn.se/img/Lindesnickarn%20Dorr.jpg",
+      "source_page_url": "https://lindesnickarn.se/tjanster.php"
+    },
+    {
+      "src": "img/Lindesnickarn Specialsnickeri.jpg",
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/lindesnickarn-assets/Lindesnickarn Specialsnickeri.jpg",
+      "alt": "Specialsnickerier",
+      "width": 1200,
+      "height": 800,
+      "title": "Specialsnickerier",
+      "description": "Services page labels this special joinery; ornamental white gable trim on timber-clad house. No client/location supplied.",
+      "recommended_use": "Special joinery gallery",
+      "source_image_url": "https://lindesnickarn.se/img/Lindesnickarn%20Specialsnickeri.jpg",
+      "source_page_url": "https://lindesnickarn.se/tjanster.php"
+    },
+    {
+      "src": "img/Lindesnickarn Reparation.jpg",
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/lindesnickarn-assets/Lindesnickarn Reparation.jpg",
+      "alt": "reparationer",
+      "width": 1200,
+      "height": 800,
+      "title": "Reparationer",
+      "description": "Services page labels this repairs; person displays two circular wooden panels, one weathered and one pale timber. Do not invent a specific restoration commission.",
+      "recommended_use": "Repair service gallery",
+      "source_image_url": "https://lindesnickarn.se/img/Lindesnickarn%20Reparation.jpg",
+      "source_page_url": "https://lindesnickarn.se/tjanster.php"
+    },
+    {
+      "src": "img/Lindesnickarn Bar2.jpg",
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/lindesnickarn-assets/Lindesnickarn Bar2.jpg",
+      "alt": "Inredning",
+      "width": 1200,
+      "height": 800,
+      "title": "Inredning",
+      "description": "Services page labels this interior joinery; timber bar with turned columns and person behind it. No project name supplied.",
+      "recommended_use": "Built-in joinery gallery",
+      "source_image_url": "https://lindesnickarn.se/img/Lindesnickarn%20Bar2.jpg",
+      "source_page_url": "https://lindesnickarn.se/tjanster.php"
+    },
+    {
+      "src": "img/Lindesnickarn Fonster.jpg",
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/lindesnickarn-assets/Lindesnickarn Fonster.jpg",
+      "alt": "Fönster",
+      "width": 1200,
+      "height": 800,
+      "title": "Fönster",
+      "description": "Services page labels this windows; custom wide roof window within a red-tiled roof. No client/location supplied.",
+      "recommended_use": "Window project gallery",
+      "source_image_url": "https://lindesnickarn.se/img/Lindesnickarn%20Fonster.jpg",
+      "source_page_url": "https://lindesnickarn.se/tjanster.php"
+    },
+    {
+      "src": "img/Lindesnickarn Snickarkurs.jpg",
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/lindesnickarn-assets/Lindesnickarn Snickarkurs.jpg",
+      "alt": "Snickarkurser",
+      "width": 1200,
+      "height": 800,
+      "title": "Snickarkurser",
+      "description": "Services page labels this woodworking courses; close view of sawing timber.",
+      "recommended_use": "Craft process detail",
+      "source_image_url": "https://lindesnickarn.se/img/Lindesnickarn%20Snickarkurs.jpg",
+      "source_page_url": "https://lindesnickarn.se/tjanster.php"
+    },
+    {
+      "src": "img/Lindesnickarn Valkommen.jpg",
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/lindesnickarn-assets/Lindesnickarn Valkommen.jpg",
+      "alt": "Lindesnickarn Mail",
+      "width": 1200,
+      "height": 800,
+      "title": "Welcome at workshop",
+      "description": "Contact page image shows a person next to Lindesnickarn sign and flowered window on blue timber wall. Exact identity is not independently captioned in this image.",
+      "recommended_use": "Workshop welcome",
+      "source_image_url": "https://lindesnickarn.se/img/Lindesnickarn%20Valkommen.jpg",
+      "source_page_url": "https://lindesnickarn.se/kontakt.php"
+    }
+  ],
+  "video": {
+    "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/lindesnickarn-assets/lindesnickarn-original-video.mp4",
+    "source_url": "https://lindesnickarn.se/files/Lindesnickarn%20Video-ver1.mp4",
+    "bytes": 34530133,
+    "duration_seconds": 27.12,
+    "width": 1920.0,
+    "height": 1080.0
+  },
+  "video_note": "The existing homepage video is available as an optional original hero asset. Metadata verified; frames not inspected during this task. Do not claim its scene contents without viewing.",
+  "archive_candidates": [
+    {
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/lindesnickarn-assets/legacy-1.jpg",
+      "url": "https://lindesnickarn.se/lindesnickarn-1994/images/galleri/big/1.jpg",
+      "page": "https://lindesnickarn.se/lindesnickarn-1994/galleri/1.htm",
+      "title": "Glasskåp",
+      "width": 600,
+      "height": 800
+    },
+    {
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/lindesnickarn-assets/legacy-10.jpg",
+      "url": "https://lindesnickarn.se/lindesnickarn-1994/images/galleri/big/10.jpg",
+      "page": "https://lindesnickarn.se/lindesnickarn-1994/galleri/10.htm",
+      "title": "",
+      "width": 600,
+      "height": 800
+    },
+    {
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/lindesnickarn-assets/legacy-11.jpg",
+      "url": "https://lindesnickarn.se/lindesnickarn-1994/images/galleri/big/11.jpg",
+      "page": "https://lindesnickarn.se/lindesnickarn-1994/galleri/11.htm",
+      "title": "",
+      "width": 600,
+      "height": 800
+    },
+    {
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/lindesnickarn-assets/legacy-12.jpg",
+      "url": "https://lindesnickarn.se/lindesnickarn-1994/images/galleri/big/12.jpg",
+      "page": "https://lindesnickarn.se/lindesnickarn-1994/galleri/12.htm",
+      "title": "",
+      "width": 600,
+      "height": 800
+    },
+    {
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/lindesnickarn-assets/legacy-2.jpg",
+      "url": "https://lindesnickarn.se/lindesnickarn-1994/images/galleri/big/2.jpg",
+      "page": "https://lindesnickarn.se/lindesnickarn-1994/galleri/2.htm",
+      "title": "Produkt 3902",
+      "width": 600,
+      "height": 800
+    },
+    {
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/lindesnickarn-assets/legacy-3.jpg",
+      "url": "https://lindesnickarn.se/lindesnickarn-1994/images/galleri/big/3.jpg",
+      "page": "https://lindesnickarn.se/lindesnickarn-1994/galleri/3.htm",
+      "title": "",
+      "width": 600,
+      "height": 800
+    },
+    {
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/lindesnickarn-assets/legacy-4.jpg",
+      "url": "https://lindesnickarn.se/lindesnickarn-1994/images/galleri/big/4.jpg",
+      "page": "https://lindesnickarn.se/lindesnickarn-1994/galleri/4.htm",
+      "title": "",
+      "width": 600,
+      "height": 800
+    },
+    {
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/lindesnickarn-assets/legacy-5.jpg",
+      "url": "https://lindesnickarn.se/lindesnickarn-1994/images/galleri/big/5.jpg",
+      "page": "https://lindesnickarn.se/lindesnickarn-1994/galleri/5.htm",
+      "title": "",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/lindesnickarn-assets/legacy-6.jpg",
+      "url": "https://lindesnickarn.se/lindesnickarn-1994/images/galleri/big/6.jpg",
+      "page": "https://lindesnickarn.se/lindesnickarn-1994/galleri/6.htm",
+      "title": "",
+      "width": 600,
+      "height": 800
+    },
+    {
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/lindesnickarn-assets/legacy-7.jpg",
+      "url": "https://lindesnickarn.se/lindesnickarn-1994/images/galleri/big/7.jpg",
+      "page": "https://lindesnickarn.se/lindesnickarn-1994/galleri/7.htm",
+      "title": "",
+      "width": 600,
+      "height": 800
+    },
+    {
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/lindesnickarn-assets/legacy-8.jpg",
+      "url": "https://lindesnickarn.se/lindesnickarn-1994/images/galleri/big/8.jpg",
+      "page": "https://lindesnickarn.se/lindesnickarn-1994/galleri/8.htm",
+      "title": "",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "file": "/Users/robmilo/Documents/Codex/2026-10-02/kvalitetsbyggarna-com-3/work/lindesnickarn-assets/legacy-9.jpg",
+      "url": "https://lindesnickarn.se/lindesnickarn-1994/images/galleri/big/9.jpg",
+      "page": "https://lindesnickarn.se/lindesnickarn-1994/galleri/9.htm",
+      "title": "",
+      "width": 600,
+      "height": 800
+    }
+  ],
+  "notes": [
+    "Current site photographs are mostly 1200×800; no larger versions are linked. Avoid claiming these are high-resolution beyond their actual dimensions.",
+    "Historical gallery photos are 600×800 or 800×600 and less suitable for full-viewport hero use.",
+    "Lindesnickarn-header.jpg is a timber texture, not a verified project photograph.",
+    "The logo has red lettering and a white window emblem. Use on a darker background so the complete authentic mark remains visible.",
+    "Named service categories are verified. Specific client names and locations generally are not supplied; use descriptive captions."
+  ]
+}
